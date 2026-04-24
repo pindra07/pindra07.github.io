@@ -16,4 +16,4 @@ Currently I'm a Fullstack and AI Engineer.
 - LLM Engineering
 - Context Engineering
 
-![Github](https://github.com/pindra07)
+[Github](https://github.com/pindra07)
