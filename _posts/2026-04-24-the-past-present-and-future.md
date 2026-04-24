@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My First Post"
-date: 2026-04-24
+title: "The Past, Present & the future we're going towards"
+date: 2026-04-25
 categories: general
 ---
 
