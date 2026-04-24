@@ -1,6 +1,3 @@
 ---
-layout: post
+layout: home
 ---
-
-# Posts
-in progress...
