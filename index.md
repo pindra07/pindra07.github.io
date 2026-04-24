@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: post
 ---
 
-# Priyanshu Indra
-Welcome to my personal blog website...
+# Posts
+in progress...
