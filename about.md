@@ -6,8 +6,8 @@ permalink: /about/
   
 ![My Image](/assets/pixel_art_profile.png){: width="200" height="200"} 
   
-Hi! I'm Priyanshu. I'm an engineer. I graduated in Physics and Chemistry. I love technology...  
-Currently I'm Fullstack and AI Engineer.  
+Hi! I'm Priyanshu. I'm an engineer. I graduated with a degree in Physics and Chemistry and I love science &technology...  
+Currently I'm a Fullstack and AI Engineer.  
   
 **My tech-stack**
 - React
@@ -15,3 +15,5 @@ Currently I'm Fullstack and AI Engineer.
 - Docker
 - LLM Engineering
 - Context Engineering
+
+![Github](https://github.com/pindra07)
