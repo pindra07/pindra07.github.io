@@ -1,1 +1,7 @@
-Hi, I'm Priyanshu. I'm a fullstack and AI Engineer. I've studies Physics and Chemistry in grad school.
+---
+layout : page
+title: "About Me"
+permalink: /about/
+---
+
+Hi, I'm the author of this website. Welcome to my page...
