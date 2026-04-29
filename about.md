@@ -15,7 +15,8 @@ Currently I'm a Fullstack and AI Engineer.
 - ReactJS
 - NextJS
 - ShadCn
-- Tailwind
+- Tailwind  
+
 **Backend**
 - Node.JS
 - Python (flask, django)
