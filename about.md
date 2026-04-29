@@ -10,10 +10,46 @@ permalink: /about/
 Hi! I'm Priyanshu. I'm an engineer. I graduated with a degree in Physics and I love science & technology...  
 Currently I'm a Fullstack and AI Engineer.  
   
-**My tech-stack**
-- React
-- Next.JS
+### My Tech Stack
+**Web**
+- ReactJS
+- NextJS
+- ShadCn
+- Tailwind
+**Backend**
+- Node.JS
+- Python (flask, django)
+- Typescript
+- GO
 - Docker
-- LLM Engineering
-- Context Engineering
+- Trpc
+- Kubernetes
+- Postgres
+- Prisma
+- Drizzle
+- Cloud (AWS, GCP)
 
+**AI Engineering**
+- Python
+- Pandas
+- NumPy
+- AI SDK (OpenAI, Openrouter, TogetherAI, Gemini)
+- Langchain
+- Lang-graph
+- HuggingFace
+- RAG
+- AI Agents (Building AI agents)
+- AI Memory & Context Engineering
+- MCP Server
+- Deployment of AI applications
+
+**Currently Learning**
+- Classical ML
+- Deep Learning
+- RNN
+- Transformers
+- LSTM and GRU RNN 
+- Encoder Decoder (Seq2Seq architecture)
+- Different Deep learning Architectures
+- Attention Mechanism
+- Transformers
