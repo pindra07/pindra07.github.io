@@ -43,7 +43,8 @@ Currently I'm a Fullstack and AI Engineer.
 - MCP Server
 - Deployment of AI applications
 
-**Currently Learning**
+### Currently Learning
+**AI/ML**
 - Classical ML
 - Deep Learning
 - RNN
@@ -53,3 +54,8 @@ Currently I'm a Fullstack and AI Engineer.
 - Different Deep learning Architectures
 - Attention Mechanism
 - Transformers
+
+**Backend**
+- System Design (diff sys design concepts)
+- Scaling Applications
+- Memory in AI-Agents/Context Engineering
