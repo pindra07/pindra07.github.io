@@ -46,6 +46,8 @@ Currently I'm a Fullstack and AI Engineer.
 
 ### Currently Learning
 **AI/ML**
+- Evals for Agentic Tasks (How good/bad are the agents in performing tasks) (**Imp for building agentic systems**)
+- Guardrails (so that agents don't do things that we don't want) (**Also very Important for agents**)
 - Classical ML
 - Deep Learning
 - RNN
