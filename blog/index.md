@@ -1,8 +1,7 @@
 ---
 layout: home
-title: Blog
 permalink: /blog/
-list_title: All Posts
 ---
 
-# Blog
+[Home](pindra07.github.io)
+[Email](priyanshuindra3@gmail.com)
