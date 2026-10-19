@@ -1,6 +1,4 @@
 ---
-layout: page
-title: Priyanshu Indra
 permalink: /
 ---
 
