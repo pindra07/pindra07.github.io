@@ -1,0 +1,88 @@
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: #fff;
+}
+
+body {
+  margin: 0;
+  color: #292929;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.profile {
+  width: min(100% - 40px, 660px);
+  margin: 28px auto 60px;
+}
+
+.profile h1 {
+  margin: 0 0 8px;
+  font-size: 44px;
+  line-height: 1.2;
+  letter-spacing: -1.8px;
+  font-weight: 700;
+}
+
+.profile h2 {
+  margin: 28px 0 8px;
+  font-size: 23px;
+  line-height: 1.4;
+  letter-spacing: -0.6px;
+}
+
+.profile p {
+  margin: 10px 0;
+}
+
+.profile a {
+  color: #675080;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.profile a:hover {
+  color: #39274f;
+}
+
+.profile ul {
+  padding-left: 16px;
+  margin: 6px 0 22px;
+}
+
+.profile li {
+  padding-left: 0;
+  margin: 4px 0;
+}
+
+.profile li::marker {
+  color: #777;
+}
+
+.profile .date {
+  float: right;
+  color: #666;
+  font-size: 14px;
+}
+
+@media (max-width: 520px) {
+  .profile {
+    width: calc(100% - 32px);
+    margin-top: 24px;
+  }
+
+  .profile h1 {
+    font-size: 36px;
+    letter-spacing: -1.2px;
+  }
+
+  .profile .date {
+    display: block;
+    float: none;
+    font-size: 13px;
+  }
+}
