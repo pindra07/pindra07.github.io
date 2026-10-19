@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About me
+title: Priyanshu Indra
 permalink: /
 ---
 
-# Priyanshu Indra
 Hi! I'm an Engineer graduated with a Physics Degree and currently exploring
 software and AI. 
 Lately, I have been working on agent evals, harness design, and RL environments.
