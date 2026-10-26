@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: profile
 title: Blog
 permalink: /blog/
 list_title: All Posts
