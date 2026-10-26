@@ -87,7 +87,7 @@ body {
   }
 }
 
-title {
+ h1 {
     font-size: 48px;
     font-weight: Medium(500);
     line-height: 48px;

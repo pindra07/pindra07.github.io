@@ -4,8 +4,8 @@ title: Priyanshu Indra
 permalink: /
 ---
 
-### Priyanshu Indra
-Hi! I'm an Engineer graduated with a Physics Degree and currently exploring
+# Priyanshu Indra
+Hi! I'm Priyanshu Indra an Engineer graduated with a Physics Degree. Currently exploring
 software and AI. 
 Lately, I have been working on agent evals, harness design, and RL environments.
 
