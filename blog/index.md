@@ -1,6 +1,8 @@
 ---
 layout: home
+title: Blog
 permalink: /blog/
+list_title: All Posts
 ---
 
 [Home](pindra07.github.io)

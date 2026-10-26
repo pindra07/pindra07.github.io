@@ -1,5 +1,6 @@
 ---
 layout: profile
+title: Priyanshu Indra
 permalink: /
 ---
 
@@ -10,6 +11,4 @@ Lately, I have been working on agent evals, harness design, and RL environments.
 <a href"priyanshuindra3@gmail.com">Email</a>
 
 ## Writeups
-
-
 My blog posts can be found [here](/blog/). 

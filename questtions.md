@@ -1,0 +1,4 @@
+- How to style your jekyll pages
+- Style your index.md file
+- Style your blog layout and folder
+- way to style and render the pages (if html is also added)
