@@ -9,9 +9,9 @@ list_title: All Posts
 
 <ol class="blog-list">
   {% for post in site.posts %}
-    <h1>
+    <p>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>&nbsp;&nbsp;&nbsp;
       <time>{{ post.date | date: "%B %-d, %Y" }}</time>
-    </h1>
+    </p>
   {% endfor %}
 </ol>
