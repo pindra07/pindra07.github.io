@@ -86,3 +86,9 @@ body {
     font-size: 13px;
   }
 }
+
+title {
+    font-size: 48px;
+    font-weight: Medium(500);
+    line-height: 48px;
+}
