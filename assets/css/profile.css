@@ -76,8 +76,10 @@ body {
   }
 
   .profile h1 {
-    font-size: 36px;
     letter-spacing: -1.2px;
+    font-size: 48px;
+    font-weight: Medium(500);
+    line-height: 48px;
   }
 
   .profile .date {
@@ -85,10 +87,4 @@ body {
     float: none;
     font-size: 13px;
   }
-}
-
- h1 {
-    font-size: 48px;
-    font-weight: Medium(500);
-    line-height: 48px;
 }
