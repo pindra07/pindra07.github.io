@@ -5,7 +5,7 @@ permalink: /blog/
 list_title: All Posts
 ---
 
-[Home](/)&nbsp;&nbsp;&nbsp;[Email](priyanshuindra3@gmail.com)
+[Home](/)&nbsp;&nbsp;&nbsp;[Email](mailto:priyanshuindra3@gmail.com)
 
 ## Blog
 <ol class="blog-list">
