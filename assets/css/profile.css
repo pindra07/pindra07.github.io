@@ -88,5 +88,8 @@ body {
         display: block;
         float: none;
         font-size: 13px;
+        font-weight: 400;
+        color: #5C5C5C;
     }
 }
+
