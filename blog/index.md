@@ -7,7 +7,7 @@ list_title: All Posts
 
 [Home](/)&nbsp;&nbsp;&nbsp;[Email](priyanshuindra3@gmail.com)
 
-### Blog
+## Blog
 <ol class="blog-list">
   {% for post in site.posts %}
     <li>
